@@ -90,9 +90,9 @@ Do you need my **help**? Have a **suggestion** for me? Send a mail to psych0m4ne
 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=h3xg0d&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=h3xg0d&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BlackDagger007" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=h3xg0d&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="h3xg0d" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=h3xg0d&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BlackDagger007" />
+<img src="https://github-readme-stats.vercel.app/api?username=h3xg0d&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="h3xg0d" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3xg0d&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
 

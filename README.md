@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! 👋,&nbsp; 𝗜'𝗺 𝗦𝗶𝘃𝘁𝘀𝗲𝘃 𝗜𝘃𝗮𝗻 🙋🏻‍♂️</h1>
+<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,&nbsp; 𝗜'𝗺 𝗦𝗶𝘃𝘁𝘀𝗲𝘃 𝗜𝘃𝗮𝗻 🙋🏻‍♂️</h1>
 
 <h1 align="center">𝘢 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 & 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 👨‍💻</h1>
 

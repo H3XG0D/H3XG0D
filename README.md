@@ -17,7 +17,7 @@
 - 🚀 &nbsp;Create projects of any complexity from scratch
 - 💡 &nbsp;Bring UI/UX ideas to life
 - 💼 &nbsp;4 years of self-taught experience
-- 💵 &nbsp;1,5 years of commercial experience
+- 💵 &nbsp;2 years of commercial experience
 - 🇳🇿 &nbsp;Live in Far East, Yakutsk
 
 <details>

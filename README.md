@@ -13,7 +13,7 @@
 
 ## About
 
-- 👨‍🏫 &nbsp;EX-Frontend developer at [Retaily](https://retaily.online/) and [YktExpress](https://yktexpress.ru/)
+- 👨‍🏫 &nbsp;EX-Frontend developer at [Retaily](https://retaily.online/), [YktExpress](https://yktexpress.ru/) and [Qwantum](https://qwantum.agency/)
 - 🚀 &nbsp;Create projects of any complexity from scratch
 - 💡 &nbsp;Bring UI/UX ideas to life
 - 💼 &nbsp;4 years of self-taught experience

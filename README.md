@@ -18,7 +18,7 @@
 - 💡 &nbsp;Bring UI/UX ideas to life
 - 💼 &nbsp;4 years of self-taught experience
 - 💵 &nbsp;2 years of commercial experience
-- 🇳🇿 &nbsp;Live in Far East, Yakutsk
+- 🇳🇿 &nbsp;Live in Moscow
 
 <details>
   <summary>🔽 &nbsp;<strong>Details</strong></summary>

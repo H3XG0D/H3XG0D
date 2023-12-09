@@ -13,12 +13,12 @@
 
 ## About
 
-- 👨‍🏫 &nbsp;EX-Frontend developer at [Retaily](https://retaily.online/), [YktExpress](https://yktexpress.ru/) and [Qwantum](https://qwantum.agency/)
+- 👨‍🏫 &nbsp;EX-Frontend developer at [Retaily](https://retaily.online/), [YktExpress](https://yktexpress.ru/), [Qwantum](https://qwantum.agency/) and [Apace](https://apps.apple.com/ru/app/games-outfits-youps/id1544801102)
 - 🚀 &nbsp;Create projects of any complexity from scratch
 - 💡 &nbsp;Bring UI/UX ideas to life
-- 💼 &nbsp;4 years of self-taught experience
-- 💵 &nbsp;2 years of commercial experience
-- 🇳🇿 &nbsp;Live in Moscow
+- 💼 &nbsp;4+ years of self-taught experience
+- 💵 &nbsp;3 years of commercial experience
+- 🇳🇿 &nbsp;Live in Saint-Petersburg
 
 <details>
   <summary>🔽 &nbsp;<strong>Details</strong></summary>
